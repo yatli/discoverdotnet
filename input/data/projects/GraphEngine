@@ -1,0 +1,9 @@
+Source: https://github.com/Microsoft/GraphEngine
+NuGet: GraphEngine.Core
+Language: C#
+Image: https://graphengine.io/img/logo-shadow.svg
+Tags:
+  - graph
+  - query
+  - distributed
+  - runtime
